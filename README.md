@@ -1,2 +1,3 @@
 # lyricoMania
+
 lyricoMania Starter Code
