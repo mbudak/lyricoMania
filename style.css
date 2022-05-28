@@ -137,3 +137,10 @@ ul.songs li {
 #placeholder {
   color: gray;
 }
+
+
+.not-found{
+  color: red;
+  font-size: large;
+  font-weight: 800;
+}
